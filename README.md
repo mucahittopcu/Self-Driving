@@ -6,3 +6,9 @@ Sürücüsüz araç geliştirmeye Nvidia sponsorluğu ile Türkiye'de ilk defa O
 
 
 - Yarışamaya bizden sonra devam edecek arkadaşlar için hazırladığımız eğitim setleri "Egitim" adlı klasörde bulunmaktadır.
+
+
+Yarışmaya birlikte katıldığım takım arkadaşlarım.
+- [Muhammed ŞARA](https://github.com/muhammedsara)
+- [Münir KARSLI](https://github.com/munirKarsli)
+- [Furkan TUFAN]()
